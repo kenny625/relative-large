@@ -87,6 +87,18 @@ body {
 }
 #enlargeLetter{
     position: absolute;
+    
+    font-size: 16px;
+    line-height: 30px !important;
+    text-align: center;
+    color: blue;
+    background-color: #f9f9dc !important ;
+    border: 1px solid red !important;
+}
+
+#enlargeLetter2{
+    position: absolute;
+    
     font-size: 16px;
     line-height: 30px !important;
     text-align: center;
@@ -97,6 +109,8 @@ body {
 
 #enlargeColumn{
     position: absolute;
+    width: 80px;
+    height: 270px !important;
     font-size: 16px;
     line-height: 30px !important;
     text-align: center;
